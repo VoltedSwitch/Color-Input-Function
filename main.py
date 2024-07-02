@@ -32,6 +32,4 @@ print(name)
 
   
   
-  
-# Outcome of function and usage:  
-# name = incolor("Enter your name: ")
+
