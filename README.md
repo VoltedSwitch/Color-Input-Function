@@ -1,3 +1,2 @@
 # Color Input Function
-This is a program in which there is a function that is reusable for anyone in their code!
-This function works similar to the input function by taking user input and returning the user input but the difference between this incolor function and the input function is that this function returns what the user inputs as in a random color between Red, Yellow, Orange, Green, Pink, Cyan and Blue! All Colors being beautiful and bright 😄!
+This program features a reusable function that anyone can incorporate into their code. Similar to the standard input function, this function captures and returns user input. However, the unique aspect of this incolor function is that it returns the user input in a randomly selected color from a palette of beautiful and bright colors: Red, Yellow, Orange, Green, Pink, Cyan, and Blue! 😄
