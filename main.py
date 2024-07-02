@@ -13,6 +13,13 @@ print(name)
      
     
     
+# Important Points To Consider When using the incolor function:
+# > Don't use type conversion functions around the incolor function:
+# such as for example: int(incolor("Enter a number: ") which can 
+# cause your program to crash. Intead if you want to intake numerical 
+# input from the user for example you can simply type incolor("Enter a number: ")
+# and you will get your numerical input returned whilst being colored.
+
 
 
 
